@@ -1,4 +1,4 @@
-# Emotion recognition with CNN
+# Emotion recognition with CNN ![CI status](https://img.shields.io/github/license/mashape/apistatus.svg) ![CI status](https://img.shields.io/badge/project-commited-blue.svg) ![CI status](https://img.shields.io/pypi/pyversions/Django.svg) ![CI status](https://img.shields.io/badge/tool-openCV%203-red.svg)
 
 
 This repository is the out project about mood recognition using convolutional neural network for the course Seminar Neural Networks at TU Delft.
