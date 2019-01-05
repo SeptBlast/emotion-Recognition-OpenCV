@@ -13,7 +13,6 @@ Pillow==5.1.0
 protobuf==3.5.2.post1
 python-dateutil==2.7.2
 pytz==2018.4
-PyYAML==3.12
 scikit-learn==0.19.1
 scipy==1.0.1
 six==1.11.0
@@ -23,3 +22,4 @@ tensorflow==1.7.0
 termcolor==1.1.0
 tflearn==0.3.2
 Werkzeug==0.14.1
+pyyaml>=4.2b1
