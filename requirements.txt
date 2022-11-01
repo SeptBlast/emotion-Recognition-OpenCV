@@ -10,7 +10,7 @@ numpy==1.16.3
 opencv-python==3.4.0.12
 pandas==0.22.0
 Pillow==8.1.0
-protobuf==3.5.2.post1
+protobuf==3.18.3.post1
 python-dateutil==2.7.2
 pytz==2018.4
 scikit-learn==0.24.2
@@ -23,3 +23,4 @@ termcolor==1.1.0
 tflearn==0.3.2
 Werkzeug==0.15.3
 pyyaml>=4.2b1
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
